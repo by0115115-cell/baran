@@ -5,5 +5,4 @@ basic.forever(function () {
     while (true) {
         continue;
     }
-    break;
 })
